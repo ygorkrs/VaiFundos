@@ -10,6 +10,8 @@ namespace VaiFundos.Classes
     {
         public Real()
         {
+            this.Nome = "Real";
+            this.Sigla = "R$";
             this.Tributo = 0.2f;
         }
     }

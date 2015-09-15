@@ -10,6 +10,7 @@ namespace VaiFundos.Classes
     {
         public Moeda MoedaPadrao { get; set; }
         public List<FatoFundo> FatoReferencia { get; set; }
+        public DateTime DataInicial { get; set; }
 
         public Fundo(Moeda pMoedaPadrao, List<FatoFundo> pFatoReferencia)
         {
@@ -21,6 +22,26 @@ namespace VaiFundos.Classes
             this.MoedaPadrao = pMoedaPadrao;
             this.FatoReferencia = pFatoReferencia;
 
+        }
+
+        public double Valor()
+        {
+
+            return 0d;
+        }
+
+        private int CalculoPercentualRemuneração()
+        {
+            int dias = (DateTime.Now - this.DataInicial).Days;
+            if (dias > 0)
+            {
+                for (int i = 0; i < 1000; i++)
+                {
+                    if (dias < 365 * (i + 1))
+                        return 5 * i;
+                }
+            }
+            return 0;
         }
     }
 }

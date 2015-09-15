@@ -10,6 +10,8 @@ namespace VaiFundos.Classes
     {        
         public Dollar()
         {
+            this.Nome = "Dollar";
+            this.Sigla = "$";
             this.Tributo = 0.01f;
         }
     }
