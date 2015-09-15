@@ -1,0 +1,6 @@
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\bin\Debug\VaiFundos.exe.config
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\bin\Debug\VaiFundos.exe
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\bin\Debug\VaiFundos.pdb
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\obj\Debug\VaiFundos.csprojResolveAssemblyReference.cache
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\obj\Debug\VaiFundos.exe
+c:\users\ygorr\documents\visual studio 2015\Projects\VaiFundos\VaiFundos\obj\Debug\VaiFundos.pdb
