@@ -300,12 +300,9 @@ namespace VaiFundos.Views
                 {
                     if (ct.fundo.id == fundoOri.id)
                         c1 = ct;
-                    else
-                    {
-                        if (ct.fundo.id == fundoDes.id)
-                            c2 = ct;
-                    }
-                       
+                    if (ct.fundo.id == fundoDes.id)
+                        c2 = ct;
+
                 }
             }
             aux.Remove(c1);
