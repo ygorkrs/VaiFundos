@@ -10,3 +10,9 @@ C:\Users\douglassiqueira\Desktop\VaiFundos\VaiFundos\obj\Debug\VaiFundos.pdb
 C:\Users\douglassiqueira\Desktop\VaiFundos\VaiFundos\bin\Debug\VaiFundos.exe
 C:\Users\douglassiqueira\Desktop\VaiFundos\VaiFundos\bin\Debug\VaiFundos.pdb
 C:\Users\douglassiqueira\Desktop\VaiFundos\VaiFundos\obj\Debug\VaiFundos.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\bin\Debug\VaiFundos.exe.config
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\obj\Debug\VaiFundos.exe
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\obj\Debug\VaiFundos.pdb
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\bin\Debug\VaiFundos.exe
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\bin\Debug\VaiFundos.pdb
+C:\Users\Douglas\Desktop\VaiFundos\VaiFundos\obj\Debug\VaiFundos.csprojResolveAssemblyReference.cache

@@ -44,16 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\Aplicacao.cs" />
-    <Compile Include="Classes\Cliente.cs" />
-    <Compile Include="Classes\Dollar.cs" />
-    <Compile Include="Classes\FatoFundo.cs" />
-    <Compile Include="Classes\Fundo.cs" />
-    <Compile Include="Classes\Moeda.cs" />
-    <Compile Include="Classes\Real.cs" />
-    <Compile Include="Classes\Util.cs" />
+    <Compile Include="Model\Aplicacao.cs" />
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Dollar.cs" />
+    <Compile Include="Model\ContratoContabil.cs" />
+    <Compile Include="Model\Fundo.cs" />
+    <Compile Include="Model\Moeda.cs" />
+    <Compile Include="Model\Real.cs" />
+    <Compile Include="Model\Util.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\UtilLayout.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
